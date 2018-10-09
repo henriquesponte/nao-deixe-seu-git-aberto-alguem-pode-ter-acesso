@@ -1,0 +1,1 @@
+# nao-deixe-seu-git-aberto-alguem-pode-ter-acesso
