@@ -1,1 +1,2 @@
 # nao-deixe-seu-git-aberto-alguem-pode-ter-acesso
+Este repositório, provavelmente, foi criado sem a permissão do usuário a qual o mesmo está ligado. Isso teve como inteção provar ao usuário do GitHub que deixar sua conta logada em computadores públicos não é uma boa ideia.
